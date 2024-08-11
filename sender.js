@@ -1,5 +1,5 @@
 //bot token
-var telegram_bot_id = "310004012:AAHsc_A9EsuZnf5G2xwO5-_b_QzZXc9ck9s";
+var telegram_bot_id = "7310004012:AAHsc_A9EsuZnf5G2xwO5-_b_QzZXc9ck9s";
 //chat id
 var chat_id = 5267852454;
 var u_name, email, message;
